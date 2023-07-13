@@ -1,7 +1,6 @@
 package com.kotov.pp_3_1_2.Service;
 
 import com.kotov.pp_3_1_2.model.User;
-import org.springframework.transaction.annotation.Transactional;
 
 
 import java.util.List;
